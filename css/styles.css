@@ -1,0 +1,16 @@
+body {
+    background: url('../img/background2.png');
+    color: #E8F6FD;
+    font-family: 'Exo', sans-serif;
+    text-align:center;
+    padding:40px;
+}
+
+h1{
+
+}
+
+
+h2{
+    font-style: italic;
+}
